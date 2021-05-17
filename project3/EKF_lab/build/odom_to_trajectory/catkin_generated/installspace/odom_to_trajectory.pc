@@ -1,0 +1,8 @@
+prefix=/home/rtk/RSE/Robotics_ND_Udacity/project3/EKF_lab/install
+
+Name: odom_to_trajectory
+Description: Description of odom_to_trajectory
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
